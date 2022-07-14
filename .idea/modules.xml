@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MessageHandling_OutPut.iml" filepath="$PROJECT_DIR$/MessageHandling_OutPut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMQ-Server.iml" filepath="$PROJECT_DIR$/RabbitMQ-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RabbitMq-Tutorial-Starter.iml" filepath="$PROJECT_DIR$/RabbitMq-Tutorial-Starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libRabbitMQ.iml" filepath="$PROJECT_DIR$/libRabbitMQ.iml" />
+    </modules>
+  </component>
+</project>
